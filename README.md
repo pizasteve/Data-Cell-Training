@@ -8,15 +8,15 @@
 </p>
 
 
-<h2>This is the official repository of the Data Science Cell Training journey provided by the <a href="#https://web.facebook.com/CIT.INPT">CIT</a> Club.</h2>
+<h2>This is the official repository of the Data Science Cell Training journey provided by the <a href="https://web.facebook.com/CIT.INPT">CIT</a> Club.</h2>
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="https://github.com/pizasteve/Data-Science-Cell-Training/tree/main/1-Introduction">Introduction</a>
+      <a href="https://github.com/pizasteve/Data-Cell-Training/tree/main/1-Introduction">Introduction</a>
       <ul>
-        <li><a href="#https://github.com/pizasteve/Data-Science-Cell-Training/blob/main/1-Introduction/Data%20Cell%20-%20Overview%20.pdf">Overview & Roadmap</a></li>
+        <li><a href="https://github.com/pizasteve/Data-Science-Cell-Training/blob/main/1-Introduction/Data%20Cell%20-%20Overview%20.pdf">Overview & Roadmap</a></li>
       </ul>
       <ul>
         <li><a href="#https://github.com/pizasteve/Data-Science-Cell-Training/blob/main/1-Introduction/Data%20Cell%20-%20Overview%20.pdf">Sources</a></li>
@@ -29,7 +29,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#https://github.com/pizasteve/Data-Science-Cell-Training/tree/main/3-Data%20Collection">Data Collection</a></li>
+    <li><a href="https://github.com/pizasteve/Data-Science-Cell-Training/tree/main/3-Data%20Collection">Data Collection</a></li>
     <li><a href="#https://github.com/pizasteve/Data-Science-Cell-Training/tree/main/4-Exploratory%20Data%20Analysis">Exploratory Data Analysis</a></li>
     <li><a href="#https://github.com/pizasteve/Data-Science-Cell-Training/tree/main/5-Pre-processing">Pre-processing</a>
             <ul>
