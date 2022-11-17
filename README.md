@@ -16,7 +16,7 @@
     <li>
       <a href="https://github.com/pizasteve/Data-Cell-Training/tree/main/1-Introduction">Introduction</a>
       <ul>
-        <li><a href="https://github.com/pizasteve/Data-Science-Cell-Training/blob/main/1-Introduction/Data%20Cell%20-%20Overview%20.pdf">Overview & Roadmap</a></li>
+        <li><a href="https://github.com/pizasteve/Data-Cell-Training/blob/main/1-Introduction/Data%20Cell%20-%20Overview%20.pdf">Overview & Roadmap</a></li>
       </ul>
       <ul>
         <li><a href="#https://github.com/pizasteve/Data-Science-Cell-Training/blob/main/1-Introduction/Data%20Cell%20-%20Overview%20.pdf">Sources</a></li>
@@ -48,21 +48,21 @@
     <li><a href="#https://github.com/pizasteve/Data-Science-Cell-Training/blob/main/7-Machine%20Learning/Classification%20Model.ipynb">Model Building</a></li>
     </ul>
     <ul>
-    <li><a href="#Cross-vauldation">Cross-vauldation</a></li>
+    <li><a href="#[hCross-vauldation](https://github.com/pizasteve/Data-Science-Cell-Training/blob/main/7-Machine%20Learning/Classification%20Model.ipynb">Cross-vauldation</a></li>
     </ul>
     <ul>
-    <li><a href="#Hyperparameters">Hyperparameters optimization</a></li>
+    <li><a href="#https://github.com/pizasteve/Data-Science-Cell-Training/blob/main/7-Machine%20Learning/Classification%20Model.ipynb">Hyperparameters optimization</a></li>
     </ul>
     <ul>
-    <li><a href="#evaluation">Model Evaluation</a></li>
+    <li><a href="#https://github.com/pizasteve/Data-Science-Cell-Training/blob/main/7-Machine%20Learning/Classification%20Model.ipynb">Model Evaluation</a></li>
     </ul>
     </li>
-    <li><a href="#mlops">MLOps</a>
+    <li><a href="#https://github.com/pizasteve/Data-Science-Cell-Training/blob/main/7-Machine%20Learning/Classification%20Model.ipynb">MLOps</a>
     <ul>
-    <li><a href="#api">API implementation</a></li>
+    <li><a href="#https://github.com/pizasteve/Data-Science-Cell-Training/blob/main/7-Machine%20Learning/Classification%20Model.ipynb">API implementation</a></li>
     </ul>
     <ul>
-    <li><a href="#cloud">Cloud deployment</a></li>
+    <li><a href="#https://github.com/pizasteve/Data-Science-Cell-Training/blob/main/7-Machine%20Learning/Classification%20Model.ipynb">Cloud deployment</a></li>
     </ul>
     </li>
 
