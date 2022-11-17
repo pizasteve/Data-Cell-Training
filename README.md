@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="Assets/Collab1.png" alt="Logo">
+    <img src="Collab1.png" alt="Logo">
   </a>
 </p>
 
