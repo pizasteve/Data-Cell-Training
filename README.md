@@ -29,7 +29,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="https://github.com/pizasteve/Data-Science-Cell-Training/tree/main/3-Data%20Collection">Data Collection</a></li>
+    <li><a href="https://github.com/pizasteve/Data-Cell-Training/tree/main/3-Data%20Collection">Data Collection</a></li>
     <li><a href="#https://github.com/pizasteve/Data-Science-Cell-Training/tree/main/4-Exploratory%20Data%20Analysis">Exploratory Data Analysis</a></li>
     <li><a href="#https://github.com/pizasteve/Data-Science-Cell-Training/tree/main/5-Pre-processing">Pre-processing</a>
             <ul>
